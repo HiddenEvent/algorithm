@@ -1,3 +1,5 @@
+package max;
+
 public class Student {
     private String name;
     private String no;
