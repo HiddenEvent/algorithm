@@ -1,6 +1,7 @@
 package math;
 
 /*최대공약수*/
+/*두수를 동일한 수로 나누어서 0이되는 최대의 수*/
 public class DevisionMin {
     public static void main(String[] args) {
         int num1, num2;
